@@ -28,7 +28,7 @@
 
    <item_bar enabled="1" /> <!-- display the mats under inventory bags -->
    <legendary_gem enabled="1" /> <!-- display the rank of legendary gems -->
-   <horadric_cache enabled="1" /> <!-- display the act/difficulty of Horadric caches (bounty bags) -->
+   <horadric_cache enabled="1" /> <!-- display the act/difficulty of Horadric caches -->
 
    <ancient_rank enabled="1"> <!-- display the rank (1) of ancient items -->
       <title font_family="verdana" font_size="11" font_bold="1" font_color="255,0,0,0" font_shadow="1">
